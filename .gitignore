@@ -1,0 +1,6 @@
+ *.gitignore* (optional, but good practice)  
+```gitignore
+# Ignore local files
+.screenshots
+.idea
+.vscode
